@@ -1,0 +1,69 @@
+
+
+# Typing Speed Tester
+## Description
+
+This is a Typing Speed Tester application built using Python and the `tkinter` library. It allows you to test your typing speed by displaying random words that you need to type within a certain time frame. The application calculates your typing speed in Words Per Minute (WPM) and provides instant feedback on your performance.
+
+## Table of Contents
+
+- [Description](#description)
+- [Demo](#demo)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+
+## Features
+
+- Random word generation for typing practice.
+- Instant feedback on your typing speed in WPM.
+- User-friendly GUI built using `tkinter`.
+- Light red background with white text for a pleasant interface.
+
+## Installation
+
+1. Clone the repository to your local machine:
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+```
+
+2. Ensure you have Python installed (version 3.x recommended).
+
+3. Install the required dependencies:
+
+```bash
+# Assuming you are in the project directory
+pip install tkinter
+```
+
+## Usage
+
+1. Navigate to the project directory.
+
+2. Run the `typing_speed_tester.py` script:
+
+```bash
+python wpm_speed.py
+```
+
+3. The application window will open, showing a random word for you to type.
+
+4. Type the word in the entry field and press Enter.
+
+5. The application will display your typing speed in WPM and prompt you with the next word.
+
+## Contributing
+
+Contributions are welcome! If you have any suggestions or bug fixes, please open an issue or create a pull request. Your input is highly appreciated.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Built with  using Visual Studio Code.
